@@ -1,0 +1,482 @@
+*{
+    padding:0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "IBM Plex Serif", serif;
+    font-style: normal;
+
+}
+html{
+    scroll-behavior: smooth;
+}
+
+
+.pembuka{
+    width: 100%;
+    min-height: 100vh;
+    background-image: url(gambar/pexels-eberhardgross-640809.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+nav{
+    top: 0;
+    padding: 1%;
+    padding-left: 3%;
+    padding-right: 3%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: fixed;
+    background-color: #e2e4e1;
+}
+nav :hover{
+    color: #9e5f1e;
+}
+
+
+.nihao{
+    font-family: "Oxygen", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 35px;
+    color: black;
+    text-decoration: none;
+}
+
+
+.pembuka{
+    font-weight:100 ;
+    font-size: 400%;
+    padding-top: 18%;
+    text-align: center;
+    color: white;
+    
+
+}
+
+
+
+.foto{
+    width: 30%;
+    position: absolute;
+    left: 15%;
+    top: 135%;
+    padding-bottom: 6%;
+    transition:  600ms ease-in-out;
+
+}
+.foto:hover{
+    transform: scale(1.35);
+}
+
+.isipropil{
+    padding-left: 55%;
+    padding-top: 25%;
+    color: #9e5f1e;
+    font-size: 150%;
+}
+.subisipropil{
+    padding-left: 55%;
+    color: black;
+    padding-right: 10%;
+    text-align: justify;
+    font-size: 130%;
+    padding-bottom: 33%;
+}
+
+
+
+
+
+.judulmateri{
+    padding-top: 5%;
+    padding-bottom: 5%;
+    text-align: center;
+    font-size: 25px;
+    background-color: #9e5f1e;
+    color: #e2e4e1;
+}
+.isimateri1{
+    padding-top: 8%;
+    padding-bottom: 3%;
+    padding-left: 15%;
+    padding-right: 50%;
+    text-align: justify ;
+    font-size: 25px;
+}
+
+.isimateri1 h3 {
+    font-style: italic;
+    text-align: center ;
+    font-size: 35px;
+    color: #9e5f1e;
+}
+
+.isimateri1 p {
+    text-align: center ;
+    font-size: 20px;
+}
+.link1{
+    color: #9e5f1e;
+    font-style: italic;
+    text-align: center;
+}
+.komputer{
+    width: 35%;
+    right: 10%;
+    position: absolute;
+    top: 315%;
+}
+.kotak1{
+    background: #9e5f1e;
+    width: 350px;
+    height: 350px;
+    position: absolute;
+    top: 322%;
+    right: 7%;
+}
+
+
+.isimateri2{
+    padding-top: 10%;
+    padding-left: 55%;
+    padding-right: 10%;
+    padding-bottom: 3%;
+    text-align: justify;
+    font-size: 25px;
+}
+.isimateri2 h3 {
+    font-style: italic;
+    text-align: center ;
+    font-size: 35px;
+    color: #9e5f1e;
+}
+
+.isimateri2 p {
+    text-align: center ;
+    font-size: 20px;
+}
+.printer{
+    width: 37%;
+    left: 13%;
+    position: absolute;
+    top: 395%;
+}
+.kotak2{
+    background: #9e5f1e;
+    width: 300px;
+    height: 400px;
+    position: absolute;
+    top: 395%;
+    left: 10%;
+}
+.link2{
+    color: #9e5f1e;
+    font-style: italic;
+
+}
+
+
+
+
+.isimateri3{
+    padding-top: 10%;
+    padding-bottom: 3%;
+    padding-left: 15%;
+    padding-right: 50%;  
+}
+.isimateri3 h3 {
+    font-style: italic;
+    text-align: center ;
+    font-size: 35px;
+    color: #9e5f1e;
+}
+.isimateri3 p {
+    text-align: center ;
+    font-size: 20px;
+}
+.telepon{
+    width: 35%;
+    right: 10%;
+    position: absolute;
+    top: 478%;
+}
+.kotak3{
+    background: #9e5f1e;
+    width: 400px;
+    height: 350px;
+    position: absolute;
+    top: 485%;
+    right: 7%;
+}
+
+.link3{
+    color: #9e5f1e;
+    font-style: italic;
+}
+
+.isimateri4{
+    padding-top: 15%;
+    padding-left: 55%;
+    padding-right: 10%;
+    padding-bottom: 3%;
+    text-align: justify;
+    font-size: 25px;
+
+}
+.isimateri4 h3 {
+    font-style: italic;
+    text-align: center ;
+    font-size: 35px;
+    color: #9e5f1e;
+}
+.isimateri4 p {
+    text-align: center ;
+    font-size: 20px;
+}
+.tele{
+    width: 37%;
+    left: 13%;
+    position: absolute;
+    top: 563%;
+}
+.kotak4{
+    background: #9e5f1e;
+    width: 300px;
+    height: 350px;
+    position: absolute;
+    top: 558%;
+    left: 10%;
+
+}
+
+.isimateri5{
+    padding-top: 15%;
+    padding-bottom: 3%;
+    padding-left: 15%;
+    padding-right: 50%;  
+}
+.isimateri5 h3{
+    color: #9e5f1e;
+    font-size: 35px;
+    font-style: italic;
+    text-align: center;
+}
+.isimateri5 p {
+    text-align: center ;
+    font-size: 20px;
+}
+.hp{
+    width: 35%;
+    right: 10%;
+    position: absolute;
+    top: 658%;
+}
+.kotak5{
+    background: #9e5f1e;
+    width: 400px;
+    height: 350px;
+    position: absolute;
+    top: 665%;
+    right: 7%;
+}
+
+
+
+
+nav ul li{
+    display: inline-block;
+    list-style: none;
+    padding-top: 5px;
+    padding-left: 100px;
+    padding-right: 75px;
+    justify-content: space-between;
+}
+
+
+nav ul li a {
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 25px;
+    color: black;
+}
+.kucing{
+    width: 3%;
+
+
+}
+
+    
+.paragraf{
+    margin-left: 10%;
+    margin-right: 58%;
+}
+.sub-par{
+    margin-left: 12%;
+    margin-right: 59%;
+}
+
+
+    
+.tekx{
+    text-align: center;
+    padding: 4%;
+    font-size: 60px;
+}
+
+.sub-par{
+    margin-left: 12%;
+    margin-right: 59%;
+}
+
+
+
+.fotomateri{
+    width: 56%;
+}
+
+@media screen and (max-width: 770px){
+    .pembuka{
+        width: 300%;
+        padding-top: 75%;
+    }
+    .foto{
+        width: 85%;
+        top: 110%;
+        left: 115%;
+    }
+    .isipropil{
+        font-size: 35px;
+        text-align: center;
+        padding-top: 150%;
+        padding-left: 0%;
+        width: 300%;
+    }
+
+    .subisipropil{
+        font-size: 40px;
+        text-align: center;
+        padding-left: 10%;
+        width: 300%;
+    }
+    .judulmateri{
+        text-align: center;
+        width: 300%;
+    }
+    
+        
+    
+    .kotak1{
+        display: none;
+    }
+    .kotak2{
+        display: none;
+    }
+    .kotak3{
+        display: none;
+    }
+    .kotak4{
+        display: none;
+    }
+    .kotak5{
+        display: none;
+    }
+
+    .komputer{
+        width: 250%;
+        top: 280%;
+        left: 25%;
+    }
+    .isimateri1{
+        width: 300%;
+        padding-top: 200%;
+        padding-left: 55%;
+    }
+    .isimateri1 h3{
+        font-size: 60px;
+    }
+    .isimateri1 p {
+        font-size: 35px;
+    }
+
+    .printer{
+        width: 250%;
+        top: 470%;
+        left: 25%;
+    }
+
+    .isimateri2{
+        width: 260%;
+        padding-top: 200%;
+        padding-left: 55%;
+    }
+    .isimateri2 h3{
+        font-size: 60px;
+    }
+    .isimateri2 p {
+        font-size: 35px;
+    }
+
+
+
+
+
+    .telepon{
+        width: 250%;
+        top: 655%;
+        left: 25%;
+    }
+
+    .isimateri3{
+        width: 300%;
+        padding-top: 200%;
+        padding-left: 55%;
+    }
+    .isimateri3 h3{
+        font-size: 60px;
+    }
+    .isimateri3 p {
+        font-size: 35px;
+    }
+
+    .tele{
+        width: 250%;
+        top: 825%;
+        left: 25%;
+    }
+
+    .isimateri4{
+        width: 260%;
+        padding-top: 195%;
+        padding-left: 55%;
+    }
+    .isimateri4 h3{
+        font-size: 60px;
+    }
+    .isimateri4 p {
+        font-size: 35px;
+    }
+
+
+
+    .hp{
+        width: 250%;
+        top: 1013%;
+        left: 25%;
+    }
+
+    .isimateri5{
+        width: 300%;
+        padding-top: 170%;
+        padding-left: 55%;
+
+    }
+    .isimateri5 h3{
+        font-size: 60px;
+    }
+    .isimateri5 p {
+        font-size: 35px;
+    }
+}
+
