@@ -404,36 +404,36 @@ nav a:hover{
 
 
     .pembuka{
-        width: 150%;
+        width: 200%;
         font-size: 40px;
         padding-top: 70%;
     }
 
     .foto{
-        padding-top: 5%;
-        width: 40%;
+        padding-left: 20%;
+        width: 45%;
     }
     .isipropil{
         padding-left: 0%;
         font-size: 20px;
-        width: 130%;
+        width: 200%;
     }
     .subisipropil{
         text-align: center;
         padding-left: 15%;
-        width: 150%;
+        width: 200%;
     }
     #kontak{
-        width: 150%;
+        width: 200%;
     }
     .judulmateri{
-        width: 150%;
+        width: 200%;
     }
 
     .isimateri1{
 
         font-size: 15px;
-        width: 150%;
+        width: 190%;
         float: left;
     }
     .isimateri1 h3 {
@@ -453,7 +453,7 @@ nav a:hover{
     .isimateri2{
         
         font-size: 15px;
-        width: 150%;
+        width: 190%;
 
     }
     .isimateri2 h3 {
@@ -471,7 +471,7 @@ nav a:hover{
     .isimateri3{
         
         font-size: 15px;
-        width: 150%;
+        width: 190%;
 
     }
     .isimateri3 h3 {
@@ -488,7 +488,7 @@ nav a:hover{
 
     .isimateri4{
         font-size: 15px;
-        width: 150%;
+        width: 190%;
 
     }
     .isimateri4 h3 {
@@ -505,7 +505,7 @@ nav a:hover{
     
     .isimateri5{
         font-size: 15px;
-        width: 150%;
+        width: 190%;
 
     }
     .isimateri5 h3 {
