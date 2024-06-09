@@ -391,7 +391,7 @@ nav ul li a {
     }
     .isimateri1{
         width: 300%;
-        padding-top: 190%;
+        padding-top: 200%;
         padding-left: 55%;
     }
     .isimateri1 h3{
@@ -404,13 +404,13 @@ nav ul li a {
     .printer{
         position: absolute;
         width: 250%;
-        top: 615%;
+        top: 595%;
         left: 25%;
     }
 
     .isimateri2{
         width: 260%;
-        padding-top: 190%;
+        padding-top: 200%;
         padding-left: 55%;
     }
     .isimateri2 h3{
@@ -427,13 +427,13 @@ nav ul li a {
     .telepon{
         position: absolute;
         width: 250%;
-        top: 884%;
+        top: 864%;
         left: 25%;
     }
 
     .isimateri3{
         width: 300%;
-        padding-top: 190%;
+        padding-top: 200%;
         padding-left: 55%;
     }
     .isimateri3 h3{
@@ -446,13 +446,13 @@ nav ul li a {
     .tele{
         position: absolute;
         width: 250%;
-        top: 1126%;
+        top: 1096%;
         left: 25%;
     }
 
     .isimateri4{
         width: 260%;
-        padding-top: 190%;
+        padding-top: 195%;
         padding-left: 55%;
     }
     .isimateri4 h3{
@@ -466,8 +466,8 @@ nav ul li a {
 
     .hp{
         position: absolute;
-        width: 190%;
-        top: 1399%;
+        width: 250%;
+        top: 1381%;
         left: 25%;
     }
 
