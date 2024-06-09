@@ -384,6 +384,7 @@ nav ul li a {
     }
 
     .komputer{
+        position: absolute;
         width: 250%;
         top: 350%;
         left: 25%;
@@ -401,6 +402,7 @@ nav ul li a {
     }
 
     .printer{
+        position: absolute;
         width: 250%;
         top: 595%;
         left: 25%;
@@ -423,6 +425,7 @@ nav ul li a {
 
 
     .telepon{
+        position: absolute;
         width: 250%;
         top: 864%;
         left: 25%;
@@ -441,6 +444,7 @@ nav ul li a {
     }
 
     .tele{
+        position: absolute;
         width: 250%;
         top: 1096%;
         left: 25%;
@@ -461,6 +465,7 @@ nav ul li a {
 
 
     .hp{
+        position: absolute;
         width: 250%;
         top: 1381%;
         left: 25%;
