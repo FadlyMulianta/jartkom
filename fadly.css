@@ -343,7 +343,7 @@ nav ul li a {
     }
     .foto{
         width: 85%;
-        top: 110%;
+        top: 120%;
         left: 115%;
     }
     .isipropil{
@@ -385,7 +385,7 @@ nav ul li a {
 
     .komputer{
         width: 250%;
-        top: 280%;
+        top: 350%;
         left: 25%;
     }
     .isimateri1{
@@ -402,7 +402,7 @@ nav ul li a {
 
     .printer{
         width: 250%;
-        top: 470%;
+        top: 615%;
         left: 25%;
     }
 
@@ -424,7 +424,7 @@ nav ul li a {
 
     .telepon{
         width: 250%;
-        top: 655%;
+        top: 883%;
         left: 25%;
     }
 
@@ -442,7 +442,7 @@ nav ul li a {
 
     .tele{
         width: 250%;
-        top: 825%;
+        top: 1130%;
         left: 25%;
     }
 
@@ -462,13 +462,13 @@ nav ul li a {
 
     .hp{
         width: 250%;
-        top: 1013%;
+        top: 1400%;
         left: 25%;
     }
 
     .isimateri5{
         width: 300%;
-        padding-top: 170%;
+        padding-top: 195%;
         padding-left: 55%;
 
     }
